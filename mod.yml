@@ -1,5 +1,5 @@
 title: Space Boi Sonic Music Pack
-description: Gotta go fast
+description: A music pack that replaces all the music in the game with Sonic music! (And a few fun surprises as well...)
 assets:
 - name: remastered\amusic\music097.bgm\music097.win32.scd
   method: copy
